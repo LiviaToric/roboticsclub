@@ -17,11 +17,6 @@ body {
     -o-background-size: cover;
 }
 
-.image-bg-fixed-height {
-	background: url('../captCurc.jpg') no-repeat center center scroll;
-    height: 450px;
-}
-
 .img-center {
 	margin: 0 auto;
 }
