@@ -17,13 +17,8 @@ body {
     -o-background-size: cover;
 }
 
-.image-bg-fluid-height {
-	background: url('../bg_image.jpg') no-repeat center center scroll;
-    padding: 100px 0;
-}
-
 .image-bg-fixed-height {
-	background: url('../bg_image.jpg') no-repeat center center scroll;
+	background: url('../captCurc.jpg') no-repeat center center scroll;
     height: 450px;
 }
 
