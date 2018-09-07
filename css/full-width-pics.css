@@ -25,21 +25,13 @@ section {
     padding: 140px 0;
 }
 
-.container{
-}
-
 .section-heading {
     margin: 30px 0;
     font-size: 3.5em;
 }
 
-.section-lead {
-    margin: 50px 0;
-    font-weight: bold;
-}
-
-.section-paragraph {
-    margin: 30px 0;
+.threeBtns{
+    margin: 215px 0;
 }
 
 .footer {
